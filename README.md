@@ -1,1 +1,1 @@
-# kaggle_study
+# Kaggle Study Materials
