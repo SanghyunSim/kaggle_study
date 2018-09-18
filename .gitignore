@@ -1,0 +1,15 @@
+## Jupyter Notebook ##
+.ipynb_checkpoints
+
+## macOS ##
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+## Python ##
+__pychache__/
+*.py[cod]
+*$py.class
+
+## pyenv
+.python-version
