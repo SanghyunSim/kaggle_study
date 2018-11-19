@@ -13,3 +13,8 @@ __pychache__/
 
 ## pyenv
 .python-version
+
+untitled/
+kaggle_santander_product_recommendation/
+**/datasets/*.csv
+**/datasets/imgs/**/*.jpg
